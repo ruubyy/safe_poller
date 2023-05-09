@@ -12,7 +12,7 @@ gem 'rake', '~> 13.0'
 gem 'rspec', '~> 3.0'
 
 # RuboCop is a Ruby code style checking and code formatting tool [https://github.com/rubocop/rubocop]
-gem 'rubocop', '~> 1.21'
+gem 'rubocop', '~> 0.72.0'
 
 # Pretty print Ruby objects with proper indentation and colors [https://github.com/awesome-print/awesome_print]
 gem 'awesome_print'
